@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(45deg,#000000,#a7dadb);
+    justify-content: center;
+    align-items: center;
+    color: rgb(60, 103, 196);
+}
